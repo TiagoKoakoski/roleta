@@ -1,13 +1,21 @@
 (function () {
   "use strict";
 
+  //const items = [
+  //  './images/sortido.jpg',
+  //  './images/tubes.png',
+  //  './images/sortido.jpg',
+  //  './images/tubes.png',
+  //  './images/sortido.jpg',
+  //  './images/tubes.png'
+  //];
   const items = [
-    './images/sortido.jpg',
-    './images/tubes.png',
-    './images/sortido.jpg',
-    './images/tubes.png',
-    './images/sortido.jpg',
-    './images/tubes.png'
+    './images/tree.png',
+    './images/tree.png',
+    './images/tree.png',
+    './images/tree.png',
+    './images/tree.png',
+    './images/tree.png'
   ];
   // document.querySelector(".info").textContent = items.join(" ");
 
